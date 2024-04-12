@@ -78,7 +78,7 @@ Video resource: [Phishtory and the Phuture of Phishing with Joseph]( https://www
 | peoplesearchexpert.com        | Enter your name to find your profile. Under View Record button is Request Removal link to remove profile                          | 48 hours         |
 | peoplesearchnow.com           | https://www.peoplesearchnow.com/opt-out                                                                                           | 72 hours         |
 | peoplebyphone.com             | https://www.peoplebyphone.com/remove-mynumber/                                                                                    | Instant          |
-| peoplefinders.com             | https://www.peoplefinders.com/opt-out?_gl=1*toevmf*_gcl_au*MjAwNTE4NDAzNC4xNzA5MzA5NzMx                                           | 10 days          |
+| peoplefinders.com             | https://www.peoplefinders.com/opt-out                                                                                             | 10 days          |
 | peoplesearch123.com           | https://www.peoplesearch123.com/optOut/name/landing                                                                               | 24 hours         |
 | peoplesearchusa.org           | https://www.peoplesearchusa.org/optOut/name/landing                                                                               | 24 hours         |
 | peoplesearcher.com            | https://www.peoplesearcher.com/optOut/name/landing                                                                                | 24 hours         |
